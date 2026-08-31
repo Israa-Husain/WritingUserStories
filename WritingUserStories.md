@@ -9,7 +9,7 @@ then a Story is created with a link/sticker back to the original Duel post.
 Given a follower taps the Duel sticker on my Story,
 when the link opens,
 then they are taken directly to the Duel post where they can vote.
----
+--
 As a shopper,
 the user wants to vote for which product they prefer in a Duel
 so that they can share their opinion and see how it compares to others' votes.
@@ -20,7 +20,7 @@ then my vote is recorded for that product.
 Given I have already voted on a Duel,
 when I view the post again,
 then I see the current results instead of the voting prompt.
----
+--
 As a shopper,
 the user wants to tap directly on either product in a Duel to view its details or buy it
 so that they can act immediately if they decide they want it.
@@ -31,7 +31,7 @@ then I am taken to that product’s full detail page with a purchase option.
 Given a product in the Duel is out of stock,
 when I tap it,
 then I see an “Out of Stock” label instead of a working purchase option.
----
+--
 As a shopper,
 the user wants to comment on a Product Duel
 so that they can explain why they prefer one product over the other.
@@ -42,7 +42,7 @@ then my comment appears under the post like a normal Instagram comment.
 Given the seller has disabled comments on the post,
 when I try to comment,
 then the comment field is unavailable and a message indicates comments are off.
----
+--
 As a shopper,
 the user wants to filter Product Duels by category
 so that they can discover comparisons relevant to their interests.
